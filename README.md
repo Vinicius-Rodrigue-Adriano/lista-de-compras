@@ -15,7 +15,7 @@ As técnicas e tecnologias utilizadas pra isso são:
 - `JavaScript`: construção de elementos dinâmicos através da manipulação do DOM.
 
 ## 🛠️ Visualização do Projeto
-
+Você pode visualizar o projeto online através do [GitHub Pages]()
 
 
 
